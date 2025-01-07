@@ -95,6 +95,5 @@ Here’s a conceptual illustration of the smile detection process:
 2. **Smile Detection**
    - Smaller rectangles highlight detected smiles within the face region.
 
-### Example Visualization
-Below is an example image generated to show the face and smile detection process:
+
 
